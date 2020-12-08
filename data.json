@@ -1,0 +1,49 @@
+{
+    "projects": [
+        { 
+          "id": "0", 
+          "project_name": "Random Quote Generator",
+          "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+          "technologies": [ "HTML", "CSS", "JavaScript" ],
+          "live_link": "https://kaufthem.github.io/project-9/",
+          "github_link": "https://github.com/kaufthem/project-9",
+          "image_urls": [ "/static/images/img0_0.png", "/static/images/img0_1.png" ]
+        },
+        { 
+          "id": "1", 
+          "project_name": "Data Pagination and Filtering",
+          "description": "Displays several “pages” of student data that the user can easily navigate and view.",
+          "technologies": [ "HTML", "CSS", "JavaScript" ],
+          "live_link": "https://kaufthem.github.io/project-10/",
+          "github_link": "https://github.com/kaufthem/project-10",
+          "image_urls": [ "/static/images/img1_0.png", "/static/images/img1_1.png" ]
+        },
+        { 
+          "id": "2", 
+          "project_name": "Interactive Form",
+          "description": "A user registration form modified to be engaging, interactive, and easy to use.",
+          "technologies": [ "HTML", "CSS", "JavaScript" ],
+          "live_link": "https://kaufthem.github.io/project-11/",
+          "github_link": "https://github.com/kaufthem/project-11",
+          "image_urls": [ "/static/images/img2_0.png", "/static/images/img2_1.png" ]
+        },
+        { 
+          "id": "3", 
+          "project_name": "OOP Game Show App",
+          "description": "A player tries to guess a random, hidden phrase by selecting individual letters from an onscreen keyboard.",
+          "technologies": [ "HTML", "CSS", "JavaScript" ],
+          "live_link": "https://kaufthem.github.io/project-12/",
+          "github_link": "https://github.com/kaufthem/project-12",
+          "image_urls": [ "/static/images/img3_0.png", "/static/images/img3_1.png" ]
+        },
+        { 
+          "id": "4", 
+          "project_name": "Public API Requests",
+          "description": "An employee directory that communicates with a third-party API.",
+          "technologies": [ "HTML", "CSS", "JavaScript" ],
+          "live_link": "https://kaufthem.github.io/project-13/",
+          "github_link": "https://github.com/kaufthem/project-13",
+          "image_urls": [ "/static/images/img4_0.png", "/static/images/img4_1.png" ]
+        }
+    ]
+}
